@@ -1,7 +1,7 @@
 ---
 title: "History of Psychology"
 description: |
-  Welcome to the website for *History of Psychology* HS24 ([24022-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=284661))
+  Welcome to the website for *History of Psychology* HS25 ([24022-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=293358))
   
   Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -24,36 +24,36 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 ::: l-body
 | # | Date     | Topic                         | Instructor | Slides | Reading |
 |---| ---------|-------------------------------|--------| --------| --------|
-| 1 | 23.09.2024 | Session 1: Introduction | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)| [Ball (2012)](https://oce.ovid.com/article/00120507-201202000-00005/PDF) |
-| 2 | 30.09.2024 | Session 2: Pre-psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S2_Prepsych.pdf)| [Markie & Folescu (2023)](https://plato.stanford.edu/archives/fall2017/entries/rationalism-empiricism/) |
-| 3 | 7.10.2024 | Session 3: The birth of psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S3_Birth.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1897181_download.html)|
-| 4 | 14.10.2024 | Session 4: Psychoanalysis | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S4_Psychoanalysis.pdf) |[Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1903494_download.html) |
-| 5 | 21.10.2024 | Session 5: Behaviorism | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S5_Behaviorism.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1909288_download.html)|
-| 6 | 28.10.2024 | Session 6: Gestalt psychology| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S6_Gestalt.pdf)  | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1897181_download.html) |
-| 7 | 4.11.2024 | Session 7: Cognitive psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S7_CognitivePsych.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1919600_download.html) |
-| 8 | 11.11.2024 | Session 8: Psychology today| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S8_Today.pdf) | [Spear (2007)](https://journals.sagepub.com/doi/pdf/10.1037/1089-2680.11.4.363) |
-| 9 | 18.11.2024 | Session 9: Psychotherapy research| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S9_PsychotherapyResearch.pdf) | [Braakmann (2015)](https://link.springer.com/chapter/10.1007/978-3-7091-1382-0_3) |
-|10 | 25.11.2024 | Session 10: Psychological testing| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S10_PsychologicalTesting.pdf) | [Wasserman (2012)](https://johndwasserman.com/index_htm_files/Wasserman%202012%20A%20History%20of%20Intelligence%20Assessment%20The%20Unfinished%20Tapestry.pdf) |
-|11 | 2.12.2024 | Session 11: Decision science | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S11_DecisionScience.pdf) | [Newell, Lagnado, & Shanks (2022)](https://adam.unibas.ch/goto_adam_file_1940530_download.html) |
-|12 | 9.12.2024 | Session 12: What kind of science is psychology?| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S12_Whatkindofscience.pdf) | --- |
-|13 | 16.12.2024 | Exam (see below) | | 
+| 1 | 22.09.2025 | Session 1: Introduction | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S1_Intro.pdf)| [Ball (2012)](https://oce.ovid.com/article/00120507-201202000-00005/PDF) |
+| 2 | 29.09.2025 | Session 2: Pre-psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S2_Prepsych.pdf)| [Markie & Folescu (2023)](https://plato.stanford.edu/archives/fall2017/entries/rationalism-empiricism/) |
+| 3 | 13.10.2025 | Session 3: The birth of psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S3_Birth.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1897181_download.html)|
+| 4 | 20.10.2025 | Session 4: Psychoanalysis | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S4_Psychoanalysis.pdf) |[Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1903494_download.html) |
+| 5 | 27.10.2025 | Session 5: Behaviorism | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S5_Behaviorism.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1909288_download.html)|
+| 6 | 3.10.2025 | Session 6: Gestalt psychology| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S6_Gestalt.pdf)  | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1897181_download.html) |
+| 7 | 10.11.2025 | Session 7: Cognitive psychology | Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S7_CognitivePsych.pdf) | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_file_1919600_download.html) |
+| 8 | 17.11.2025 | Session 8: Psychology today| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S8_Today.pdf) | [Spear (2007)](https://journals.sagepub.com/doi/pdf/10.1037/1089-2680.11.4.363) |
+| 9 | 24.11.2025 | Session 9: Psychotherapy research| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S9_PsychotherapyResearch.pdf) | [Braakmann (2015)](https://link.springer.com/chapter/10.1007/978-3-7091-1382-0_3) |
+|10 | 1.12.2025 | Session 10: Psychological testing| Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S10_PsychologicalTesting.pdf) | [Wasserman (2012)](https://johndwasserman.com/index_htm_files/Wasserman%202012%20A%20History%20of%20Intelligence%20Assessment%20The%20Unfinished%20Tapestry.pdf) |
+|11 | 8.12.2025 | Session 11: Decision science | Tisdall | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S11_DecisionScience.pdf) | [Newell, Lagnado, & Shanks (2022)](https://adam.unibas.ch/goto_adam_file_1940530_download.html) |
+|12 | 15.12.2025 | Session 12: What kind of science is psychology?| Mata | [pdf](https://github.com/matarui/HISTPSY_HS24/raw/main/docs/presentations/HISTPSY_S12_Whatkindofscience.pdf) | --- |
+|13 | 15.12.2025 | Exam (see below) | | 
 :::
 
-**IMPORTANT INFORMATION**
+**EXAM INFORMATION**
 
-The exam will be held on December 16th, 2024 in different rooms
+The exam will be held on December 15th, 2025. More information will be provided during the semester.
 
-**Last Name A–F**
+<!-- **Last Name A–F** -->
 
-Kollegienhaus, Hörsaal 001: Students with last names starting A up to and including F
- 
-**Last Name G–Z**
+<!-- Kollegienhaus, Hörsaal 001: Students with last names starting A up to and including F -->
 
-Bernoullianum, Grösser Hörsaal 148: Students will last names starting with G to Z
- 
-**Nachteilsausgleich**
+<!-- **Last Name G–Z** -->
 
-Students notified individually by email (Missionsstr. 64a, Seminarraum 00.001)
+<!-- Bernoullianum, Grösser Hörsaal 148: Students will last names starting with G to Z -->
+
+<!-- **Nachteilsausgleich** -->
+
+<!-- Students notified individually by email (Missionsstr. 64a, Seminarraum 00.001) -->
 
 # What is this course about?
 
@@ -69,4 +69,6 @@ By completing the course, you can expect to:
 
 # How should you use this website?
 
-This website is designed to help course participants get an overview of the course sessions and access the course slides. The slides will be made available *after* each session. A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM. 
+This website is designed to help course participants get an overview of the course sessions and access the course slides. 
+
+<!-- A [FAQ](https://adam.unibas.ch/goto_adam_crs_1687450.html) forum is available on ADAM.  -->
