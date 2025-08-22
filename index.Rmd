@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC. 
 
 ::: l-body
-| # | Date     | Topic                         | Instructor |  Resources |
-|---| ---------|-------------------------------|--------| --------| ------------------------|
+| # | Date       | Topic                               | Instructor | Resources                     |
+|---| -----------|-------------------------------------|------------|-------------------------------|
 | 1 | 22.09.2025 | What kind of science is psychology? | Mata | [Podcast: Zimmer & Ayan (2025)](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
 | 2 | 29.09.2025 | The birth of psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 3 | 13.10.2025 | Psychoanalysis | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
