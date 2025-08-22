@@ -41,6 +41,18 @@ Slides will be made available shortly before each session.
 |12 | 15.12.2025 | Exam (see below) | | 
 :::
 
+# What is this course about?
+
+This course offers a comprehensive introduction to the history of psychology, tracing its evolution from its philosophical origins to its development as a scientific discipline. It explores the contributions of natural and social sciences to the field and examines the emergence of various psychological schools of thought that have shaped our understanding of human mental processes and behavior from the 19th century to the present. Additionally, the course highlights the institutionalization of psychology as a science and its expanding role in diverse areas such as mental health, organizational and educational settings, and the communication of evidence and risk.
+
+# What can you expect to learn?
+
+By completing the course, you can expect to:
+
+- Understand the historical roots and evolution of various schools of thought in psychology.
+- Gain an overview of the development and key applications of psychological theory.
+- Learn about the biographies and contributions of prominent psychologists.
+
 # Exam
 
 The exam will be held on December 15th, 2025 and it will consist of multiple-choice questions covering the content of all sessions. 
@@ -60,19 +72,6 @@ More information will be provided during the semester.
 <!-- **Nachteilsausgleich** -->
 
 <!-- Students notified individually by email (Missionsstr. 64a, Seminarraum 00.001) -->
-
-# What is this course about?
-
-This course offers a comprehensive introduction to the history of psychology, tracing its evolution from its philosophical origins to its development as a scientific discipline. It explores the contributions of natural and social sciences to the field and examines the emergence of various psychological schools of thought that have shaped our understanding of human mental processes and behavior from the 19th century to the present. Additionally, the course highlights the institutionalization of psychology as a science and its expanding role in diverse areas such as mental health, organizational and educational settings, and the communication of evidence and risk.
-
-# What can you expect to learn?
-
-By completing the course, you can expect to:
-
-- Understand the historical roots and evolution of various schools of thought in psychology.
-- Gain an overview of the development and key applications of psychological theory.
-- Learn about the biographies and contributions of prominent psychologists.
-
 # How should you use this website?
 
 This website is designed to help course participants get an overview of the course sessions and access the course slides. 
