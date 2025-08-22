@@ -40,9 +40,13 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 |12 | 15.12.2025 | Exam (see below) | | 
 :::
 
-**EXAM INFORMATION**
+# Exam
 
-The exam will be held on December 15th, 2025. More information will be provided during the semester.
+The exam will be held on December 15th, 2025 and it will consist of multiple-choice questions covering the content of all sessions. 
+
+More information will be provided during the semester.
+
+<!--The exam will take place in different locations:-->
 
 <!-- **Last Name A–F** -->
 
