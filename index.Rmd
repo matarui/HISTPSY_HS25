@@ -25,18 +25,18 @@ Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC.
 
 ::: l-body
 | # | Date     | Topic                         | Instructor |  Resources |
-|---| ---------|-------------------------------|--------| --------| --------|
-| 1 | 22.09.2025 | Session 1: What kind of science is psychology? | Mata | [Zimmer & Ayan (2025)](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
-| 2 | 29.09.2025 | Session 2: The birth of psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 3 | 13.10.2025 | Session 3: Psychoanalysis | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
-| 4 | 20.10.2025 | Session 4: Behaviorism | Mata |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 5 | 27.10.2025 | Session 5: Gestalt psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
-| 6 | 3.11.2025 | Session 6: Cognitive psychology | Mata |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 7 | 10.11.2025 | Session 7: Psychology today | Tisdall |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 8 | 17.11.2025 | Session 8: Psychotherapy research | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 9 | 24.11.2025 | Session 9:  Psychological testing | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|10 | 1.12.2025 | Session 10: Decision science | Tisdall | [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|11 | 8.12.2025 | Session 11: What kind of science is psychology? (revisited) | Tisdall | [Newell, Lagnado, & Shanks (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|---| ---------|-------------------------------|--------| --------| ------------------------|
+| 1 | 22.09.2025 | What kind of science is psychology? | Mata | [Podcast: Zimmer & Ayan (2025)](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
+| 2 | 29.09.2025 | The birth of psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 3 | 13.10.2025 | Psychoanalysis | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
+| 4 | 20.10.2025 | Behaviorism | Mata |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 5 | 27.10.2025 | Gestalt psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
+| 6 | 03.11.2025 | Cognitive psychology | Mata |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 7 | 10.11.2025 | Psychology today | Tisdall |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 8 | 17.11.2025 | Psychotherapy research | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 9 | 24.11.2025 | Psychological testing | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|10 | 01.12.2025 | Decision science | Tisdall | [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|11 | 08.12.2025 | What kind of science is psychology? (revisited) | Tisdall | [Newell, Lagnado, & Shanks (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 |12 | 15.12.2025 | Exam (see below) | | 
 :::
 
