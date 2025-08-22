@@ -22,6 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Session information
 
 Sessions take place Mondays, 8.15-9.45, Chemie, Organische, Grosser Hörsaal OC. 
+Slides will be made available shortly before each session. 
 
 ::: l-body
 | # | Date       | Topic                               | Instructor | Resources                     |
