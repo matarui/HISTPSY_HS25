@@ -26,16 +26,16 @@ Slides will be made available shortly before each session.
 | # | Date       | Topic                               | Instructor | Resources                     |
 |---| -----------|-------------------------------------|------------|-------------------------------|
 | 1 | 22.09.2025 | What kind of science is psychology? | Mata | [Spektrum Podcast](https://www.spektrum.de/podcast/spektrum-podcast-zwischen-forschung-und-ratgebern/2282753) |
-| 2 | 29.09.2025 | The birth of psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 3 | 13.10.2025 | Psychoanalysis | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
-| 4 | 20.10.2025 | Behaviorism | Mata |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 5 | 27.10.2025 | Gestalt psychology | Mata | [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
-| 6 | 03.11.2025 | Cognitive psychology | Mata |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 7 | 10.11.2025 | Psychology today | Tisdall |  [Brysbaert & Rastle (2009)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 8 | 17.11.2025 | Psychotherapy research | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 9 | 24.11.2025 | Psychological testing | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|10 | 01.12.2025 | Decision science | Tisdall | [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|11 | 08.12.2025 | What kind of science is psychology? (revisited) | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 2 | 29.09.2025 | The birth of psychology | Mata | [Brysbaert & Rastle (2021; 4.1-4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 3 | 13.10.2025 | Psychoanalysis | Mata | [Brysbaert & Rastle (2021; 4.3-4.4)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
+| 4 | 20.10.2025 | Behaviorism | Mata |  [Brysbaert & Rastle (2021; 5.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 5 | 27.10.2025 | Gestalt psychology | Mata | [Brysbaert & Rastle (2021; 4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
+| 6 | 03.11.2025 | Cognitive psychology | Mata |  [Brysbaert & Rastle (2021; 5.3)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 7 | 10.11.2025 | Psychology today | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 8 | 17.11.2025 | Psychotherapy research | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 9 | 24.11.2025 | Psychological testing | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|10 | 01.12.2025 | Decision science | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|11 | 08.12.2025 | What kind of science is psychology? (revisited) | Tisdall | [Ball (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 |12 | 15.12.2025 | Exam (see below) | | 
 :::
 
