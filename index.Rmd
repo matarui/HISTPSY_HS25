@@ -31,7 +31,7 @@ Slides will be made available shortly before each session.
 | 4 | 20.10.2025 | [Behaviorism](presentations/HISTPSY_session4_behaviorism.pdf) | Mata |  [Brysbaert & Rastle (2021; 5.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 5 | <s>27.10.2025</s> (see email) | [Gestalt psychology](presentations/HISTPSY_session5_gestalt.pdf) | Mata | [Brysbaert & Rastle (2021; 4.2)](https://adam.unibas.ch/goto_adam_crs_1995736.html)|
 | 6 | 03.11.2025 | [Cognitive psychology](presentations/HISTPSY_session6_cognitivepsychology.pdf)  | Mata |  [Brysbaert & Rastle (2021; 5.3)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-| 7 | 10.11.2025 | Psychology today | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+| 7 | 10.11.2025 | [Psychology today](presentations/HISTPSY_session7_psychologytoday.pdf) | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 8 | 17.11.2025 | Psychotherapy research | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 9 | 24.11.2025 | Psychological testing | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 |10 | 01.12.2025 | Decision science | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
