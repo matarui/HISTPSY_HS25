@@ -34,7 +34,7 @@ Slides will be made available shortly before each session.
 | 7 | 10.11.2025 | [Psychology today](presentations/HISTPSY_session7_psychologytoday.pdf) | Tisdall |  [Spear (2007)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 8 | 17.11.2025 | [Psychotherapy research](presentations/HISTPSY_session8_psychotherapy-research.pdf) | Tisdall |  [Braakmann (2015)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 | 9 | 24.11.2025 | [Psychological testing](presentations/HISTPSY_session9_psychological-testing.pdf) | Tisdall |  [Wasserman (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
-|10 | 01.12.2025 | Decision science | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
+|10 | 01.12.2025 | [Decision science](presentations/HISTPSY_session10_decisionscience.pdf) | Tisdall | [Newell et al. (2022)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 |11 | 08.12.2025 | What kind of science is psychology? (revisited) | Tisdall | [Ball (2012)](https://adam.unibas.ch/goto_adam_crs_1995736.html) |
 |12 | 15.12.2025 | Exam (see below) | | 
 :::
